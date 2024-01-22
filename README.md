@@ -14,14 +14,15 @@ Refer to the following markdown file for the respective sections of the class:
 
 Learners will understand:
 
-- Perceptron and Multi-Layer Perceptron (MLP)
-- Neural Network and Deep Learning
+- The definition, historical overview and applications of Neural Network and Deep Learning
+- Perceptron and Multi-Layer Perceptron (MLP) as the foundation of Neural Network
+- PyTorch as a Deep Learning framework
 
 Learners will be able to:
 
-- Create and train a perceptron
-- Create and train an MLP / Fully Connected Neural Network
-- Build a Fully Connected Neural Network model for classification
+- Create and train a perceptron using NumPy
+- Create and train an MLP / Fully Connected Neural Network using PyTorch
+- Build a Fully Connected Neural Network model for classification using PyTorch
 
 ## Lesson Plan
 
