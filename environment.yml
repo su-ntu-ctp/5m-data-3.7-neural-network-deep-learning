@@ -12,6 +12,12 @@ dependencies:
   - pip:
       - torch==2.1.2
       - torchvision==0.16.2
+      - torchtext==0.16.2
       - torchaudio==2.1.2
       - opencv-python==4.9.0.80
+      - nltk==3.8.1
+      - spacy==3.7.2
+      - gensim==4.3.2
+      - portalocker==2.8.2
+      - transformers[torch]==4.37.1
 prefix: /Users/zanelim/miniconda3/envs/dl
