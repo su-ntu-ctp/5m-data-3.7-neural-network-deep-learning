@@ -20,4 +20,6 @@ dependencies:
       - gensim==4.3.2
       - portalocker==2.8.2
       - transformers[torch]==4.37.1
+      - mlflow==2.10.0
+      - virtualenv==20.25.0
 prefix: /Users/zanelim/miniconda3/envs/dl
