@@ -1,5 +1,9 @@
 # 3.7 Neural Network and Deep Learning
 
+## Lesson Overview
+
+![Infographic](./assets/infographic-3.7.png)
+
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
