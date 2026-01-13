@@ -16,17 +16,13 @@ Refer to the following markdown file for the respective sections of the class:
 
 ## Lesson Objectives
 
-Learners will understand:
+At the end of the lesson, learners shall be able to:
 
-- The definition, historical overview and applications of Neural Network and Deep Learning
-- Perceptron and Multi-Layer Perceptron (MLP) as the foundation of Neural Network
-- PyTorch as a Deep Learning framework
+- **Describe Perceptron and Multi-Layer Perceptron (MLP)** as the foundation of Neural Networks, explaining their architectural progression from single-layer linear classifiers to multi-layer systems capable of solving non-linear problems through activation functions and backpropagation.
 
-Learners will be able to:
+- **Create and train a perceptron using NumPy** from scratch, coding the mathematical formulation of forward passes and weight updates to understand the core mechanics of neural learning without relying on high-level frameworks.
 
-- Create and train a perceptron using NumPy
-- Create and train an MLP / Fully Connected Neural Network using PyTorch
-- Build a Fully Connected Neural Network model for classification using PyTorch
+- **Build and train a Fully Connected Neural Network (MLP) using PyTorch**, leveraging the framework to construct a deep learning model, define loss functions and optimizers, and execute the training loop for classification tasks on datasets like MNIST.
 
 ## Lesson Plan
 
